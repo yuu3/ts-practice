@@ -4,5 +4,3 @@ const currentUser: User = {
   name: 'yuu4',
   age: 23
 }
-
-console.log(currentUser)
